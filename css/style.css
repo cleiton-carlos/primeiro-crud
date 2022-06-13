@@ -1,0 +1,18 @@
+input , textarea{
+  padding: 5px;
+}
+
+table {
+  border-collapse: collapse;
+  border: 1px solid #000;
+  height: auto;
+  width: 800px;
+  text-align: center;
+}
+
+th, td{
+  padding: 5px;
+  border: 1px solid #000;
+}
+
+
